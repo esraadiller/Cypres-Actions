@@ -1,0 +1,21 @@
+{
+  "name": "cypres-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0",
+    "cypress-mochawesome-reporter": "^3.4.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3"
+  }
+}
